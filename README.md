@@ -2,7 +2,9 @@
 BTK Akademi, Google ve Girişimcilik Vakfı'nın düzenlediği Datathon 2024 yarışması dataBenders ekibinin proje kodları
 
 Takım Adı: dataBenders
+
 Üyeleri:
+
 1)Beyza AYDOĞMUŞ - İzmir Katip Çelebi Üniversitesi Bilgisayar Mühendisliği 3.sınıf öğrencisi
 2)Sena YÜKSEL - İzmir Katip Çelebi Üniversitesi Bilgisayar Mühendisliği 3.sınıf öğrencisi
 
