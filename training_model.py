@@ -6,7 +6,7 @@ from sklearn.metrics import mean_squared_error
 import numpy as np
 
 # Veri Yükleme
-file_path = 'train_veri_temizlenmis.xlsx' #temizlenmiş train excel dosyası
+file_path = 'train_veri_temizlenmis.xlsx' #temizlenmiş train excel dosyası yolunu giriniz
 df = pd.read_excel(file_path)
 
 # Label Encoding: Kategorik değişkenleri sayısal değerlere dönüştürme
@@ -68,3 +68,4 @@ results_df = pd.DataFrame({
 })
 
 results_df.to_csv('test_predictions.csv', index=False) #test dosyasının model sonuçları çıktı olarak verilecektir.
+# test dosyasının kaydedilmesini istediğiniz yolu ekleyiniz
