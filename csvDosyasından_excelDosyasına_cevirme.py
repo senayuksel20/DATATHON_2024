@@ -60,4 +60,3 @@ with pd.ExcelWriter(excel_dosyasi, engine='xlsxwriter') as writer:
     df.to_excel(writer, sheet_name='Sheet1', index=False)
 
 print("Excel dosyası başarıyla oluşturuldu!")
-
